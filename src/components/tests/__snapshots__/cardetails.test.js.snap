@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit test for CarDetails renders CarDetails 1`] = `
+<div>
+  <h1>
+    Car Listings
+  </h1>
+  <div
+    class="sc-bdfBQB bSCONV"
+  >
+    <div
+      class="sc-gsTEea hFEVSK"
+    >
+      <div
+        class="sc-dlfnuX sc-hKgJUU fNPEMh ifIJfe"
+      >
+        CAR ID
+      </div>
+      <div
+        class="sc-dlfnuX sc-hKgJUU fNPEMh ifIJfe"
+      >
+        CAR NAME
+      </div>
+    </div>
+    <div
+      class="sc-gsTEea hFEVSK"
+    >
+      <div
+        class="sc-dlfnuX fNPEMh"
+      >
+        1
+      </div>
+      <div
+        class="sc-dlfnuX fNPEMh"
+      >
+        Car1
+      </div>
+    </div>
+    <div
+      class="sc-gsTEea hFEVSK"
+    >
+      <div
+        class="sc-dlfnuX fNPEMh"
+      >
+        2
+      </div>
+      <div
+        class="sc-dlfnuX fNPEMh"
+      >
+        Car2
+      </div>
+    </div>
+    <div
+      class="sc-gsTEea hFEVSK"
+    >
+      <div
+        class="sc-dlfnuX fNPEMh"
+      >
+        3
+      </div>
+      <div
+        class="sc-dlfnuX fNPEMh"
+      >
+        Car3
+      </div>
+    </div>
+  </div>
+</div>
+`;
