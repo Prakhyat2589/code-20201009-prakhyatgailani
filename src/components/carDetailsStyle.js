@@ -3,7 +3,7 @@ import styled from "styled-components";
 const Wrapper = styled.div`
   max-width: 750px;
   width: 100%;
-  margin: 0 auto;
+  margin: 0 auto 50px auto;
 `;
 
 const CarItemsWrapper = styled.div`
@@ -26,6 +26,9 @@ const CarItemsWrapper = styled.div`
   }
   &:first-child {
     background: purple;
+  }
+  &:last-child {
+    border-width: 1px;
   }
 `;
 
