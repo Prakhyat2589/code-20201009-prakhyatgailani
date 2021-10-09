@@ -17,6 +17,16 @@ const CarItemsWrapper = styled.div`
   border-width: 1px 1px 0 1px;
   margin: 0 auto;
   padding: 10px;
+
+  &:nth-child(even) {
+    background: #a9dce3;
+  }
+  &:nth-child(odd) {
+    background: #7689de;
+  }
+  &:first-child {
+    background: purple;
+  }
 `;
 
 const CarItems = styled.div`
@@ -25,6 +35,7 @@ const CarItems = styled.div`
 
 const CarItemsHeader = styled(CarItems)`
   font-weight: bold;
+  color: #fff;
 `;
 
 export { Wrapper, CarItemsWrapper, CarItems, CarItemsHeader };
