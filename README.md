@@ -21,7 +21,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm coverage`
 
-Launches the coverage runner.\
+Launches the coverage runner.
 
 ### `npm run build`
 
