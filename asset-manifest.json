@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/js/main.3475b575.chunk.js",
+    "main.js.map": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/js/main.3475b575.chunk.js.map",
+    "runtime-main.js": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/js/runtime-main.f972bc58.js",
+    "runtime-main.js.map": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/js/runtime-main.f972bc58.js.map",
+    "static/js/2.fcb08045.chunk.js": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/js/2.fcb08045.chunk.js",
+    "static/js/2.fcb08045.chunk.js.map": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/js/2.fcb08045.chunk.js.map",
+    "static/js/3.077c5ede.chunk.js": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/js/3.077c5ede.chunk.js",
+    "static/js/3.077c5ede.chunk.js.map": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/js/3.077c5ede.chunk.js.map",
+    "index.html": "/Prakhyat2589/code-20201009-prakhyatgailani.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fcb08045.chunk.js.LICENSE.txt": "/Prakhyat2589/code-20201009-prakhyatgailani.git/static/js/2.fcb08045.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f972bc58.js",
+    "static/js/2.fcb08045.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3475b575.chunk.js"
+  ]
+}
